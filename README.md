@@ -4,7 +4,6 @@ An AI-Driven Solution for Early Detection and Prevention of Chronic Diseases
 
 "Chronic Disease Indicator"
 : An AI-Driven Solution for Early Detection and Prevention of Chronic Diseases
-
 By – RUSHIKESH SONWANE
 
 Background:
@@ -115,9 +114,6 @@ To validate the model, we will use a cross-validation approach to assess the acc
 The code implementation will be done by a team of data scientists and software engineers with expertise in machine learning and software development. The cost of development will depend on the size and complexity of the project and the resources required to complete it, such as computing power and software licenses.
 
 Link:-
-
-
-
-
+https://github.com/RushikeshSonwane03/Chronic_Disease_Indicator.git 
 Conclusion:
 In conclusion, the Chronic Disease Indicator is an innovative and comprehensive tool that can help healthcare providers and policymakers better understand the prevalence and impact of chronic diseases in their communities. By leveraging advanced data analytics and machine learning algorithms, the tool can provide insights and predictions on disease patterns, risk factors, and potential interventions, enabling more targeted and effective healthcare policies and strategies. While there are some challenges and limitations associated with data availability, privacy, and technical expertise, the potential benefits of the Chronic Disease Indicator are substantial and far-reaching, and it is likely to become an increasingly important tool in the fight against chronic diseases in the years to come.
